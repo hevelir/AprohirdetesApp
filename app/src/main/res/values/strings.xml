@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Apróhirdetések</string>
+    <string name="my_items">Én hirdetéseim</string>
+    <string name="other_items">Mások hirdetései</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="please_enter_your_credentials">Írd be a felhasználónevet és a jelszót</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Mégse</string>
+    <string name="new_item">Új item</string>
+    <string name="name">Név</string>
+    <string name="description">Leírás</string>
+    <string name="category">Kategória</string>
+    <string name="price">Ár</string>
+    <string name="buy">Megvesz</string>
+    <string name="remove">Eltavolít</string>
+    <string name="details">Részletek</string>
+    <string-array name="category_items">
+        <item>Ingatlan</item>
+        <item>Jármű</item>
+        <item>Háztartás</item>
+        <item>Elektronika</item>
+        <item>Sport</item>
+        <item>Ruházat</item>
+        <item>Üzlet</item>
+    </string-array>
+</resources>
